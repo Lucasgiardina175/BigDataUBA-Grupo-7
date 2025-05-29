@@ -6,5 +6,5 @@
  2) TP1
  3) TP2
  4) TP3
- 5) TP
+ 5) TJP
  ## Exposición grupal ##
